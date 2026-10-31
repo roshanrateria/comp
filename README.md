@@ -1,17 +1,12 @@
 # comp
 
-## Overview
-
-No repository description is currently provided.
+A C weather client that requests current conditions from OpenWeatherMap and extracts weather fields from the API response.
 
 ## Technology
 
-C
+- C
+- OpenWeatherMap HTTP API
 
-## Repository contents
+## Run
 
-`weather final.c`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Build `weather final.c` with the project dependencies available in your environment, then run the executable. Configure API credentials securely before use.
